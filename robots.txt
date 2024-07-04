@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://thumbleg.github.io/sitemap
+Sitemap: https://thumbleg.github.io/app/sitemap
+Sitemap: https://thumbleg.github.io/assets/sitemap
+Sitemap: https://thumbleg.github.io/css/sitemap
+Sitemap: https://thumbleg.github.io/includes/sitemap
+Sitemap: https://thumbleg.github.io/item/sitemap
+Sitemap: https://thumbleg.github.io/src/sitemap
